@@ -1,0 +1,2164 @@
+{
+  "salesOrder": {
+    "characteristicItems": [
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9138548877513212043",
+        "value": "x191919",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9138619718613259878",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143964632713692279",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143964646113692708",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143971100013709459",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143971100013709470",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143971100013709477",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143973960913718425",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144022828313776532",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144906731313183138",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144906889613185745",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144940280013207803",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144941454813209947",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144941628713210571",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144941982713212507",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144942131513213256",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9144948427213220635",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9145388991013839695",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9146566354213937097",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151715750413632656",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151811464113621426",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151811464113621441",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161901230013968238",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9143689189613135352",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9148698109813403803",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9149424055813052766",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155642244313415517",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151621397313529202",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9157654816413426802",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9145386259413563331",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9146936510013919582",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9148698109813403813",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9148802155813035910",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9148958205313021610",
+        "characteristicId": "9148958005813021511",
+        "value": "9148958005813021492",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9149424055813052769",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9149460710313069656",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9149850894813383475",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9149851235913389425",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9149851235913389449",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9149612429313119801",
+        "characteristicId": "9149612429313119794",
+        "value": "9149612282313119736",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9151790559313390136",
+        "characteristicId": "9151790559313390133",
+        "value": "9151783153313385645",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9151790559313390196",
+        "characteristicId": "9151790559313390189",
+        "value": "9151783153313385669",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151851500013424130",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151851725113424203",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151906650813468650",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151906650813468653",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9151906650813468657",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9152150480113893843",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9153649262313461871",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154123543913416268",
+        "value": "9144413504413358531",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154280453613550815",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154431718013503800",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154926667813982731",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154926667813982735",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154993129313797170",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9154997010813784538",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155091140013799602",
+        "value": "[\"9134661890013196039\"]",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155039374813715617",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155222575513727182",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9155117183313516527",
+        "characteristicId": "9155117183313516498",
+        "value": "9155116984713516411",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155301195813921569",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155674802413400256",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155724219813035731",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9155966300013901115",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9156066709313050519",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9156377327313318473",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9156917240013315176",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9156971182513011847",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9157583731013559999",
+        "value": "OrderContextLoad_ServerError",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9157583832313560124",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9157583847513560126",
+        "value": "9138548877513212043=x191919|9138619718613259878=NULL|9154123543913416268=9144413504413358531|9158687557813453976=NULL|9146340954813998630=9144413504413358531|9138719996013282785=113427822|7030151465013152898=9134661890013196039|creditCheckPerformed=9132121613813866315|LPDSID=9164047864913028302",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9157729827513537421",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158378665113443941",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158419980513931258",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158687557813453976",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158755696313432317",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158755696313432358",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158804402513671532",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158931178713431188",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9158997773813545941",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159459420313550038",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159459420313550041",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159459420313550044",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9159548258313559285",
+        "characteristicId": "9159538738313547053",
+        "value": "9135094317113362615",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159585087813566306",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159688778813591635",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159688778813591654",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159738501713668468",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159738519513668470",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159896690713517012",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159906984413124583",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159921440113615015",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160001937113125928",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160010537613553102",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160138724313647692",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9160260315613759569",
+        "characteristicId": "9160260315613759567",
+        "value": "9157234973813275917",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160273017313145875",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160501486713569579",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160615616813654954",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160674599513573743",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160660728313162982",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160663688213690491",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9160684311313700331",
+        "characteristicId": "9160684311313700257",
+        "value": "9146289777113226681",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160923482213655264",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160931906413620207",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161029610813631671",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161030174313631992",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161046924613672408",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161145014313556715",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161167240613628269",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161301628813960572",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161366844113656080",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161485490913719429",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161512783313646081",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161512778713646079",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161512774013646077",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161815423813785528",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161901688313968499",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161966341813546703",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9162008311713584910",
+        "characteristicId": "9162007970113584667",
+        "value": "Initial",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160238952413019899",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160002883213873453",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9145194950013871031",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9159023179813251150",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162027089313533036",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162179149113711337",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160203853813990992",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162199578313907633",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162471481913753292",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162549830013732233",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9146333779513770050",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9138538037513998874",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9144240229713171622",
+        "characteristicId": "9144240111713171169",
+        "value": "[Blank]",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "9146280548313693670",
+        "characteristicId": "9146280548313693663",
+        "value": "Port-Within",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9146333779513770041",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9146333779513770058",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9161231554613451737",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9137398811513948678",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9160389170013673847",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162805357313814583",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162810802013822268",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162857887718477562",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9162988813313862616",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9163043384313866635",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9163038377813941730",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9163174964570973888",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9163225721513836444",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "9163303274967437380",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": null,
+        "characteristicId": "-9150880890913060243",
+        "value": "rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAx3CAAAABAAAAABc3IAFGphdmEubWF0aC5CaWdJbnRlZ2VyjPyfH6k7+x0DAAZJAAhiaXRDb3VudEkACWJpdExlbmd0aEkAE2ZpcnN0Tm9uemVyb0J5dGVOdW1JAAxsb3dlc3RTZXRCaXRJAAZzaWdudW1bAAltYWduaXR1ZGV0AAJbQnhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cP///////////////v////4AAAABdXIAAltCrPMX+AYIVOACAAB4cAAAAAh/LTzyzn9KonhzcQB+AAA/QAAAAAAAAHcIAAAAEAAAAAB4eA==",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9142379360013118158",
+        "characteristicId": "-9142379360013118158",
+        "value": "{9164047864913028311=[9159965661313728232, 9161035403313667112, 9161035610013667168, 9135288126613451053, 9135348560013466740, 9136000105613113827, 9135288126613451049], 9136005912613359837=[9159965661313728232, 9161035403313667112, 9161035610013667168, 9135288126613451053, 9135348560013466740, 9136000105613113827, 9135288126613451049]}",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9146512162613645478",
+        "characteristicId": "-9146512162613645478",
+        "value": "rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAB3CAAAABAAAAAAeA==",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9161502601713727592",
+        "characteristicId": "-9161502601713727592",
+        "value": "rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAB3CAAAABAAAAAAeA==",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9158056508413602332",
+        "characteristicId": "-9158056508413602332",
+        "value": "rO0ABXNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAAAdwQAAAAAeA==",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9157969755813541136",
+        "characteristicId": "-9157969755813541136",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9160707659813649445",
+        "characteristicId": "-9160707659813649445",
+        "value": null,
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9143338522913681118",
+        "characteristicId": "-9143338522913681118",
+        "value": "{9164047830313028258={}}",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      },
+      {
+        "referenceValueClassName": null,
+        "characteristicValueId": "-9159887732213316467",
+        "characteristicId": "-9159887732213316467",
+        "value": "False",
+        "characteristicAttrId": null,
+        "valueClassName": null,
+        "referenceValue": null
+      }
+    ],
+    "orderItems": [
+      {
+        "productOfferingId": "9159683640113535776",
+        "discounts": [],
+        "locationId": "9164047830313028258",
+        "characteristicItems": [
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9156206282313339425",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9156213483513368205",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9153897691413629943",
+            "characteristicId": "9153897691413629932",
+            "value": "110",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9159723828813555218",
+            "characteristicId": "9159723636313555176",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9141866653113121711",
+            "characteristicId": "9141866552013121612",
+            "value": "Consumer",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9156206560813339812",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9142487402013241084",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9144211059613932540",
+            "characteristicId": "9144210800013932384",
+            "value": "Consumer",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9139397324413046661",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9136442440313389343",
+            "characteristicId": "9136433029313382511",
+            "value": "True",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9149663516513101809",
+            "characteristicId": "9149663516513101807",
+            "value": "9149423635813053390",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9139397324413046678",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9157950629613372961",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9159724880013555796",
+            "characteristicId": "9159724880013555794",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9136412083513358133",
+            "characteristicId": "9136412083513358130",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9135897577813260392",
+            "characteristicId": "9135897577813260384",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9159723191813554964",
+            "characteristicId": "9159722806813554747",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9161476340013742019",
+            "characteristicId": "9161476340013742005",
+            "value": "25 Mbps",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9159692418813545788",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9157949109413357569",
+            "value": "Self-Install, Retailer supplied, Sales on site",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9158296767813543939",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9157950816213373075",
+            "characteristicId": "9157950816213373074",
+            "value": "Self-Install",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9162015967999043871",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9163159338933151737",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9163766544196622751",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9164024299923439946",
+            "characteristicId": "9164024291308439944",
+            "value": "No",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9158789680813833349",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9159385760013517877",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9159896943213517121",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9159897059013517226",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9159965985913506284",
+            "characteristicId": "9159706119913596696",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9148405997513062442",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9158202167313452904",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9158202391313452912",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9149960334513292444",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9158004495213443263",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9161026880513690752",
+            "characteristicId": "9161026873513690668",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "9161028814413700475",
+            "characteristicId": "9161028841113700517",
+            "value": "True",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9158903368313499144",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": null,
+            "characteristicId": "9162186200013714681",
+            "value": null,
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          },
+          {
+            "referenceValueClassName": null,
+            "characteristicValueId": "-9142379360013118150",
+            "characteristicId": "-9142379360013118150",
+            "value": "9136005912613359837",
+            "characteristicAttrId": null,
+            "valueClassName": null,
+            "referenceValue": null
+          }
+        ],
+        "action": "Add",
+        "orderItems": [
+          {
+            "productOfferingId": "9156394275313116672",
+            "discounts": [],
+            "locationId": "9164047830313028258",
+            "characteristicItems": [
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9148405997513062442",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9143901740013590062",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9136080128713413173",
+                "value": "FIFA-FW-INET",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": "9146789766413803077",
+                "characteristicId": "9146789766413803067",
+                "value": "Yes",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158202167313452904",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158202391313452912",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158903368313499144",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9162186200013714681",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": "-9142379360013118150",
+                "characteristicId": "-9142379360013118150",
+                "value": "9136005912613359837",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              }
+            ],
+            "action": "Add",
+            "orderItems": [],
+            "upgradedFromOfferingId": null
+          },
+          {
+            "productOfferingId": "9163039825409415152",
+            "discounts": [],
+            "locationId": "9164047830313028258",
+            "characteristicItems": [
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9136080128713413173",
+                "value": "Wireless HSIA Connection Fee",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158202167313452904",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158903368313499144",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158202391313452912",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9162186200013714681",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "-9142379360013118150",
+                "value": "9136005912613359837",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              }
+            ],
+            "action": "Add",
+            "orderItems": [],
+            "upgradedFromOfferingId": null
+          },
+          {
+            "productOfferingId": "9159698239513542765",
+            "discounts": [],
+            "locationId": "9164047830313028258",
+            "characteristicItems": [
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9154712925013660213",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9143901740013590062",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9154736941113672883",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9155273632513165270",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9147059822213876456",
+                "value": "NTTRISIM",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9148405997513062442",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9144689223813944271",
+                "value": "NTTRISIM",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9136080128713413173",
+                "value": "AdvModem-FR",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": "9148273745313924550",
+                "characteristicId": "9148273745313924544",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": "9148051600313877245",
+                "characteristicId": "9147992184813847362",
+                "value": "Shipping",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9147912230013832699",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9154702875313460310",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": "9148232189813996301",
+                "characteristicId": "9147912230013832705",
+                "value": "SAP",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158799148813443080",
+                "value": "9159705859113569078,9154711592813659489",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158202167313452904",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158202391313452912",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158851183313480632",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9149960334513292444",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": "9160985453713691650",
+                "characteristicId": "9160916067213635201",
+                "value": "No",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9158903368313499144",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "9162186200013714681",
+                "value": null,
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              },
+              {
+                "referenceValueClassName": null,
+                "characteristicValueId": null,
+                "characteristicId": "-9142379360013118150",
+                "value": "9136005912613359837",
+                "characteristicAttrId": null,
+                "valueClassName": null,
+                "referenceValue": null
+              }
+            ],
+            "action": "Add",
+            "orderItems": [],
+            "upgradedFromOfferingId": null
+          }
+        ],
+        "upgradedFromOfferingId": null
+      }
+    ]
+  }
+}
